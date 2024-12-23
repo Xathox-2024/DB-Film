@@ -971,30 +971,6 @@
       "username": "user123",
       "userpassword": "1234",
       "type": "user"
-    },
-    {
-      "id": "b8af",
-      "username": "micka",
-      "userpassword": "1234",
-      "type": "user"
-    },
-    {
-      "id": "7c48",
-      "username": "audette",
-      "userpassword": "456",
-      "type": "user"
-    },
-    {
-      "id": "dd6a",
-      "username": "youssef1211",
-      "userpassword": "goat1&Moi",
-      "type": "user"
-    },
-    {
-      "id": "5997",
-      "username": "aude",
-      "userpassword": "Maude12&",
-      "type": "user"
     }
   ]
 }
