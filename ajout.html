@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Formulaire d'inscription</title>
+  </head>
+  <body>
+    <header>
+      <h1>Ajouter un Film</h1>
+      <a href="index.html"
+        ><img
+          src="icone/fleche-gauche.png"
+          alt="icone retour"
+          style="width: 60px; height: 60px"
+      /></a>
+    </header>
+    <main>
+      <form id="userForm">
+        <div>
+          <label for="titre">Titre :</label>
+          <input type="text" id="titre" name="titre" required />
+        </div>
+
+        <div>
+          <label for="realisateur">realisateur :</label>
+          <input type="text" id="realisateur" name="realisateur" required />
+        </div>
+
+        <div>
+          <label for="annee">Année :</label>
+          <input type="number" id="annee" name="annee" required />
+        </div>
+
+        <div>
+          <label for="genre">Genre :</label>
+          <select id="genre">
+            <option value="">--Sélectionnez un genre--</option>
+            <option value="Science-fiction">Science-fiction</option>
+            <option value="Action">Action</option>
+            <option value="Aventure">Aventure</option>
+            <option value="Thriller">Thriller</option>
+            <option value="Drame">Drame</option>
+            <option value="Comédie">Comédie</option>
+            <option value="Policier">Policier</option>
+            <option value="Romance">Romance</option>
+            <option value="Crime">Crime</option>
+          </select>
+        </div>
+
+        <div>
+          <label for="synopsis">synopsis :</label>
+          <input type="text" id="synopsis" name="synopsis" required />
+        </div>
+
+        <div>
+          <label for="duree">Durée :</label>
+          <input type="text" id="duree" name="duree" required />
+        </div>
+        <div>
+          <label for="affiche">Affiche :</label>
+          <input type="text" id="affiche" name="affiche" required />
+        </div>
+
+        <button class="btn-Soumettre" type="submit">Soumettre</button>
+      </form>
+    </main>
+    <script src="ajout.js"></script>
+  </body>
+</html>

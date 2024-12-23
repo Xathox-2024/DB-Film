@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S'inscrire</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <div class="register-container">
+        <h2>Inscription</h2>
+        <form id="registerForm">
+            <div class="input-group">
+                <label for="newUsername">Identifiant</label>
+                <input type="text" id="newUsername" name="newUsername" required>
+            </div>
+            <div class="input-group">
+                <label for="newPassword">Mot de passe</label>
+                <input type="password" id="newPassword" name="newPassword" required>
+            </div>
+            <button type="submit" id="registerBtn">S'inscrire</button>
+        </form>
+        <p>Déjà inscrit ? <a href="login.html">Se connecter</a></p>
+    </div>
+
+    <script src="register.js"></script>
+</body>
+</html>

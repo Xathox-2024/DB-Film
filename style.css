@@ -1,0 +1,233 @@
+/* Style global */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #6b6b6e;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#searchInput {
+  width: 50%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #fff;
+  color: #333;
+  transition: width 0.3s ease;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin: 0;
+  font-weight: bold;
+}
+
+/* Style du formulaire */
+form {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background: #000000;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 0.5s ease-out; /* Animation d'apparition */
+}
+
+.place-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 30em;
+  height: 15em;
+}
+
+.photo {
+  text-align: center;
+}
+
+/* Animation d'apparition */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Style des labels */
+form label {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: white;
+}
+
+/* Style des champs */
+form input,
+form select,
+form button {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  transition: all 0.3s ease; /* Transition douce */
+}
+
+.btn-Soumettre {
+  width: 88%;
+  padding: 12px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  transition: all 0.3s ease; /* Transition douce */
+}
+
+/* Champs de sélection */
+form select {
+  background-color: #f9f9f9;
+  cursor: pointer;
+}
+
+/* Effet au focus */
+form input:focus,
+form select:focus {
+  border-color: #007bff;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Espacement entre les champs */
+form div {
+  margin-bottom: 20px;
+}
+
+/* Effet au survol du bouton */
+button:hover {
+  background-color: #0056b3;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px); /* Légère élévation */
+}
+
+/* Effet en cas de clic */
+button:active {
+  background-color: #004080;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+  transform: translateY(2px); /* Descente pour effet pressé */
+}
+
+/* Bouton */
+button {
+  width: 21%;
+  padding: 12px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  margin: 37px;
+}
+
+/* Effet au survol */
+button:hover {
+  background-color: #0056b3;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+/* Effet en cas de clic */
+button:active {
+  background-color: #004080;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+  transform: translateY(2px);
+}
+
+.but-deco {
+  background-color: red;
+  width: 8em;
+}
+
+/* Carte (par cohérence avec le reste du site) */
+.card {
+  margin: 50px auto;
+  padding: 20px;
+  width: 600px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  animation: fadeIn 0.5s ease-out;
+}
+.user-card {
+  margin: 50px auto;
+  padding: 20px;
+  width: 1000px;
+  height: 600px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: rgb(78, 127, 218);
+  color: rgb(0, 0, 0);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  animation: fadeIn 0.5s ease-out;
+  text-align: center;
+}
+.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.7);
+  transition: all 0.3s ease;
+}
+
+.contenu {
+  margin-left: 20px;
+}
+
+.contenu h1 {
+  font-size: 1.8em;
+  margin: 0;
+  color: #ffffff;
+}
+
+.contenu p {
+  margin: 5px 0;
+  color: #d3d3d3; /* Gris clair */
+}
+.user-contenu p {
+  margin: 5px 0;
+  font-weight: bold;
+  color: #000000; /* Gris clair */
+}
+.logo-affiche {
+  width: 40em;
+  height: auto;
+}

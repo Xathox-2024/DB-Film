@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <h1>Film sélectionné</h1>
+      <a href="index.html"
+        ><img src="icone/fleche-gauche.png" alt="icone retour" style="width: 60px; height: 60px"/></a>
+    </header>
+    <main>
+      <script type="module">
+        import userCard from "./user-card.js";
+        // Récupérer l'ID depuis l'URL
+        const params = new URLSearchParams(window.location.search);
+        const id = params.get("id"); // Obtenir l'ID de la query string
+
+        // Fetch pour récupérer les données de l'utilisateur
+        fetch("http://localhost:3000/films")
+          .then((response) => response.json())
+          .then((data) => {
+            // Trouver l'utilisateur correspondant à l'ID
+            const movie = data.find((item) => item.id == id);
+            if (!movie) {
+              document.body.innerHTML = "<h1>Utilisateur non trouvé</h1>";
+            } else {
+              userCard(movie);
+            }
+          })
+          .catch((err) => {
+            console.error("Erreur lors de la récupération des données :", err);
+            document.body.innerHTML = "<h1>Une erreur s'est produite</h1>";
+          });
+      </script>
+    </main>
+  </body>
+</html>

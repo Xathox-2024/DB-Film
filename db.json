@@ -1,0 +1,982 @@
+{
+  "films": [
+    {
+      "titre": "The Shawshank Redemption",
+      "realisateur": "Frank Darabont",
+      "annee": "1994",
+      "genre": [
+        "Drame"
+      ],
+      "synopsis": "The Shawshank Redemption (1994) raconte l'histoire d'Andy Dufresne, un banquier accusé à tort du meurtre de sa femme et de son amant, condamné à deux peines de prison à vie à Shawshank. Là, il se lie d'amitié avec Ellis 'Red' Redding, un détenu expérimenté, et trouve des moyens de survivre à la brutalité de la prison. Grâce à ses compétences en comptabilité, Andy gagne la confiance des autorités pénitentiaires et parvient à accomplir des actions extraordinaires. Le film explore des thèmes d'espoir, de rédemption et d'amitié, culminant avec une évasion audacieuse qui illustre la force de l'esprit humain face à l'injustice.",
+      "affiche": "https://dp9a3tyzxd5qs.cloudfront.net/the-shawshank-redemption-1994-7.jpg",
+      "duree": "2h22",
+      "id": "1"
+    },
+    {
+      "titre": "The Godfather",
+      "realisateur": "Francis Ford Coppola",
+      "annee": "1972",
+      "genre": [
+        "Thriller"
+      ],
+      "synopsis": "The Godfather (1972) suit l'ascension et la transformation de Michael Corleone, le plus jeune fils d'une puissante famille mafieuse italo-américaine dirigée par Don Vito Corleone. Alors qu'il cherche initialement à se tenir à l'écart des affaires criminelles de sa famille, Michael est progressivement entraîné dans un monde de pouvoir, de violence et de loyauté, devenant lui-même un chef impitoyable. Ce film épique explore les thèmes de la famille, du pouvoir, de la trahison et des conséquences tragiques des choix dans une quête d'héritage et de survie au sein d'un empire criminel.",
+      "affiche": "https://media.npr.org/assets/img/2022/03/10/marlon-brandon-the-godfather_custom-789f9333d50a9a51d671af9cd41652c51d5d48e9.jpg?s=1100&c=85&f=jpeg",
+      "duree": "2h55",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "titre": "The Dark Knight",
+      "realisateur": "Christopher Nolan",
+      "annee": 2008,
+      "synopsis": "The Dark Knight (2008) suit Batman dans sa lutte pour protéger Gotham City face à la montée du chaos orchestré par le Joker, un criminel imprévisible et sadique. Alors que le Chevalier Noir, avec l'aide du commissaire Gordon et du procureur Harvey Dent, tente de démanteler les organisations criminelles de la ville, le Joker pousse Gotham au bord de l'anarchie et force Batman à affronter des dilemmes moraux déchirants. Ce film explore des thèmes de justice, de sacrifice et de la dualité entre héros et anti-héros dans une quête pour sauver une ville rongée par la corruption.",
+      "genre": [
+        "Action",
+        "Crime",
+        "Drame"
+      ],
+      "duree": "2h32",
+      "affiche": "https://thumb.canalplus.pro/http/unsafe/1440x810/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52831084"
+    },
+    {
+      "id": "4",
+      "titre": "Pulp Fiction",
+      "realisateur": "Quentin Tarantino",
+      "annee": 1994,
+      "synopsis": "Pulp Fiction (1994) est un film culte qui entrelace plusieurs histoires criminelles se déroulant à Los Angeles. Le récit suit Vincent Vega et Jules Winnfield, deux tueurs à gages, alors qu'ils naviguent dans des situations imprévisibles et absurdes, ainsi que Butch Coolidge, un boxeur impliqué dans une trahison, et d'autres personnages liés au monde criminel. Avec sa narration non linéaire, ses dialogues mémorables et son style unique, le film explore les thèmes du hasard, de la rédemption et des conséquences des choix dans un mélange d'humour noir et de violence.",
+      "genre": [
+        "Crime",
+        "Drame"
+      ],
+      "duree": "2h34",
+      "affiche": "https://resize.elle.fr/original/var/plain_site/storage/images/loisirs/cinema/news/decouvrez-quels-acteurs-auraient-du-jouer-dans-pulp-fiction-2985007/56224377-1-fre-FR/Decouvrez-quels-acteurs-auraient-du-jouer-dans-Pulp-Fiction.jpg"
+    },
+    {
+      "id": "5",
+      "titre": "Schindler's List",
+      "realisateur": "Steven Spielberg",
+      "annee": 1993,
+      "synopsis": "Schindler's List (1993) raconte l'histoire vraie d'Oskar Schindler, un industriel allemand membre du parti nazi, qui sauve plus de mille Juifs pendant l'Holocauste en les employant dans ses usines. Initialement motivé par le profit, Schindler est profondément transformé par les horreurs qu'il observe sous le régime nazi et risque tout pour protéger ses travailleurs. Ce film poignant et bouleversant explore les thèmes de l'humanité, du sacrifice et de la résilience face à l'atrocité, mettant en lumière un acte héroïque au milieu de l'une des périodes les plus sombres de l'histoire.",
+      "genre": [
+        "Biographie",
+        "Drame",
+        "Histoire"
+      ],
+      "duree": "3h15",
+      "affiche": "https://deadline.com/wp-content/uploads/2022/04/MCDSCLI_EC006-e1649362433199.jpg"
+    },
+    {
+      "id": "6",
+      "titre": "Inception",
+      "realisateur": "Christopher Nolan",
+      "annee": 2010,
+      "synopsis": "Inception (2010) suit Dom Cobb, un voleur spécialisé dans l'art de pénétrer les rêves pour extraire des secrets enfouis dans l'inconscient. Chargé d'une mission presque impossible appelée 'inception', Cobb et son équipe doivent implanter une idée dans l'esprit d'un magnat, tout en naviguant dans des niveaux de rêves de plus en plus complexes et dangereux. Alors que la frontière entre rêve et réalité s'efface, Cobb est confronté à ses propres démons et à son désir de retourner auprès de sa famille. Ce film explore des thèmes de perception, de mémoire et de la puissance de l'esprit dans une intrigue captivante et visuellement époustouflante.",
+      "genre": [
+        "Action",
+        "Aventure",
+        "Sci-Fi"
+      ],
+      "duree": "2h28",
+      "affiche": "https://www.screentune.com/wp-content/uploads/2023/10/Critique-Inception-2010-ScreenTune.jpg"
+    },
+    {
+      "id": "7",
+      "titre": "Fight Club",
+      "realisateur": "David Fincher",
+      "annee": 1999,
+      "synopsis": "Fight Club (1999) raconte l'histoire d'un narrateur anonyme, un employé de bureau désabusé souffrant d'insomnie, qui trouve un exutoire à sa frustration en fondant un club de combat clandestin avec Tyler Durden, un vendeur charismatique et anarchiste. Ce club devient un mouvement subversif qui échappe rapidement à tout contrôle. Alors que les événements prennent une tournure de plus en plus chaotique, le narrateur découvre des vérités troublantes sur lui-même et sur la nature de son partenariat avec Tyler. Ce film explore des thèmes de consumérisme, de masculinité et de dualité psychologique dans une intrigue provocante et inattendue.",
+      "genre": [
+        "Drame"
+      ],
+      "duree": "2h19",
+      "affiche": "https://cafedesimages.fr/wp-content/uploads/2019/04/fight-club-photo-1280x605.jpg"
+    },
+    {
+      "id": "8",
+      "titre": "Forrest Gump",
+      "realisateur": "Robert Zemeckis",
+      "annee": 1994,
+      "synopsis": "Forrest Gump (1994) suit la vie extraordinaire de Forrest, un homme au cœur pur et à l'esprit simple, qui traverse des décennies d'histoire américaine. Malgré ses limites intellectuelles, Forrest se retrouve au cœur de moments clés, influençant des événements historiques et rencontrant des figures emblématiques. À travers son parcours, marqué par l'amour inconditionnel qu'il porte à Jenny, son amie d'enfance, Forrest démontre que la gentillesse, l'innocence et la persévérance peuvent surmonter n'importe quel obstacle. Ce film explore les thèmes de l'amour, du destin et de l'impact d'une vie ordinaire dans un monde extraordinaire.",
+      "genre": [
+        "Drame",
+        "Romance"
+      ],
+      "duree": "2h22",
+      "affiche": "https://www.serieously.com/app/uploads/2024/11/forrest-gump-et-jenny.jpg"
+    },
+    {
+      "id": "9",
+      "titre": "The Matrix",
+      "realisateur": "Lana Wachowski, Lilly Wachowski",
+      "annee": 1999,
+      "synopsis": "The Matrix (1999) raconte l'histoire de Neo, un pirate informatique qui découvre que le monde dans lequel il vit est une illusion créée par une intelligence artificielle pour asservir l'humanité. Guidé par Morpheus, un mystérieux rebelle, et Trinity, une combattante aguerrie, Neo rejoint une rébellion contre les machines et apprend qu'il pourrait être 'l'Élu', destiné à libérer l'humanité. Ce film révolutionnaire explore des thèmes philosophiques sur la réalité, le libre arbitre et l'identité, tout en offrant des séquences d'action spectaculaires et des effets visuels avant-gardistes.",
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "duree": "2h16",
+      "affiche": "https://www.rollingstone.fr/wp-content/uploads/2019/06/the-matrix-retour.jpg"
+    },
+    {
+      "id": "10",
+      "titre": "Goodfellas",
+      "realisateur": "Martin Scorsese",
+      "annee": 1990,
+      "synopsis": "Goodfellas (1990) retrace l'ascension et la chute de Henry Hill, un homme fasciné dès son plus jeune âge par le monde du crime organisé. Aux côtés de ses partenaires, Jimmy Conway et Tommy DeVito, Henry plonge dans l'univers violent et impitoyable de la mafia italo-américaine. Alors que le pouvoir et l'argent s'accumulent, les conséquences de leurs actions commencent à les rattraper, menant à des trahisons, des pertes et des descentes aux enfers. Ce film explore les thèmes de la loyauté, de l'avidité et des conséquences du choix criminel dans une narration captivante et brutale.",
+      "genre": [
+        "Biographie",
+        "Crime",
+        "Drame"
+      ],
+      "duree": "2h26",
+      "affiche": "https://image.over-blog.com/B8Jms7IVHbtCQKOScAbbOBiVXYA=/filters:no_upscale()/image%2F0994617%2F20201222%2Fob_be5fdd_48777-posts-facebook-lg.jpg"
+    },
+    {
+      "id": "11",
+      "titre": "le seigneur des anneaux la communauté de l'anneau",
+      "realisateur": "Peter Jackson",
+      "annee": 2001,
+      "synopsis": "Le Seigneur des Anneaux : La Communauté de l'Anneau (2001) raconte l'histoire de Frodon Sacquet, un jeune Hobbit qui se voit confier la mission de détruire l'Anneau Unique, un artefact magique maléfique capable de soumettre la Terre du Milieu à Sauron, le Seigneur des Ténèbres. Pour l'aider dans cette quête, Frodon est accompagné d'une communauté composée de neuf membres, dont des Hobbits, des hommes, un elfe, un nain et un magicien. Ensemble, ils entreprennent un voyage périlleux à travers des terres hostiles pour atteindre le Mont Destin, le seul endroit où l'Anneau peut être détruit. Le film explore les thèmes de l'amitié, du courage et du sacrifice face au mal.",
+      "genre": [
+        "Aventure",
+        "Drame",
+        "Fantastique"
+      ],
+      "duree": "2h58",
+      "affiche": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/7/1252477_fellowship.jpg"
+    },
+    {
+      "id": "12",
+      "titre": "Star Wars: Episode V - The Empire Strikes Back",
+      "realisateur": "Irvin Kershner",
+      "annee": 1980,
+      "synopsis": "Star Wars: Episode V - The Empire Strikes Back (1980) poursuit l'aventure des héros de la Rébellion contre l'Empire Galactique. Après la destruction de l'Étoile de la Mort, Luke Skywalker, Han Solo, Leia Organa et leurs alliés fuient l'Empire et se réfugient sur la planète Hoth. Cependant, l'Empire, dirigé par Dark Vador, lance une offensive pour capturer les rebelles. Pendant ce temps, Luke part s'entraîner auprès du maître Jedi Yoda pour devenir plus fort et affronter son destin. Ce film emblématique explore des thèmes de courage, de trahison et du conflit intérieur, notamment à travers la célèbre révélation de Vador.",
+      "genre": [
+        "Action",
+        "Aventure",
+        "Fantastique"
+      ],
+      "duree": "2h4",
+      "affiche": "https://variety.com/wp-content/uploads/1980/05/Empire-Strikes-Back.jpg?w=1000&h=565&crop=1"
+    },
+    {
+      "id": "13",
+      "titre": "The Silence of the Lambs",
+      "realisateur": "Jonathan Demme",
+      "annee": 1991,
+      "synopsis": "The Silence of the Lambs (1991) suit l'histoire de Clarice Starling, une jeune agent du FBI, qui cherche à capturer le tueur en série Buffalo Bill. Pour ce faire, elle demande l'aide de Hannibal Lecter, un psychiatre brillant mais cannibale et criminel notoire, emprisonné dans un hôpital psychiatrique de haute sécurité. À travers des échanges psychologiques intenses, Clarice tente de déchiffrer les indices que Lecter lui fournit, tout en devant naviguer dans la manipulation et les jeux mentaux du criminel. Le film explore des thèmes de manipulation, de pouvoir et de la confrontation entre le bien et le mal dans une atmosphère tendue et oppressante.",
+      "genre": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "duree": "1h58",
+      "affiche": "https://ychef.files.bbci.co.uk/1280x720/p04w4b54.jpg"
+    },
+    {
+      "id": "14",
+      "titre": "Se7en",
+      "realisateur": "David Fincher",
+      "annee": 1995,
+      "synopsis": "Se7en (1995) suit deux détectives, Somerset et Mills, dans leur enquête sur une série de meurtres inspirés des sept péchés capitaux. Alors que l'assassin, un homme méthodique et perturbé, choisit ses victimes en fonction de leurs transgressions morales, les détectives se lancent dans une course contre la montre pour l'arrêter avant qu'il ne commette d'autres crimes. Le film explore des thèmes de la justice, de la rédemption et de l'obscurité humaine, avec une atmosphère sombre et une fin choquante qui bouleverse l'équilibre moral des enquêteurs.",
+      "genre": [
+        "Crime",
+        "Drame",
+        "Mystère"
+      ],
+      "duree": "2h7",
+      "affiche": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/12/brad-pitt-and-morgan-freeman-in-se7en-seven-rain-1400x700.jpg"
+    },
+    {
+      "id": "15",
+      "titre": "Interstellar",
+      "realisateur": "Christopher Nolan",
+      "annee": 2014,
+      "synopsis": "Interstellar (2014) se déroule dans un futur proche où la Terre est en déclin, frappée par des catastrophes environnementales. Cooper, un ancien pilote et ingénieur, rejoint une mission spatiale pour explorer des planètes situées dans un trou de ver, à la recherche d'une nouvelle maison pour l'humanité. Accompagné d'une équipe de scientifiques, il traverse des mondes inconnus et confrontés à des paradoxes temporels, tout en étant déchiré par la séparation d'avec sa famille. Le film explore des thèmes de sacrifice, d'amour, de survie et de la relativité du temps dans un univers vaste et mystérieux.",
+      "genre": [
+        "Aventure",
+        "Drame",
+        "Sci-Fi"
+      ],
+      "duree": "2h49",
+      "affiche": "https://www.slate.fr/uploads/store/story_94323/large_landscape_94323.jpg"
+    },
+    {
+      "id": "16",
+      "titre": "Parasite",
+      "realisateur": "Bong Joon Ho",
+      "annee": 2019,
+      "synopsis": "Parasite (2019) raconte l'histoire de la famille Kim, vivant dans la pauvreté à Séoul, qui s'infiltre progressivement dans la vie d'une famille riche, les Park. Grâce à des manipulations astucieuses, chaque membre de la famille Kim obtient un poste au service des Park, dissimulant leurs véritables identités. Cependant, les tensions entre les deux familles finissent par dégénérer en une spirale de conflits violents et de révélations choquantes. Ce film primé explore des thèmes de lutte des classes, de deception, et de la complexité des relations sociales dans une satire sociale poignante et imprévisible.",
+      "genre": [
+        "Comédie",
+        "Drame",
+        "Thriller"
+      ],
+      "duree": "2h12",
+      "affiche": "https://www.francetvinfo.fr/pictures/BL8l5nqqMUE4MPitZCSovYzNUUo/1200x900/2022/12/29/63ada1b41c47b_16-ans.jpg"
+    },
+    {
+      "id": "17",
+      "titre": "La Ligne verte",
+      "realisateur": "Frank Darabont",
+      "annee": 1999,
+      "synopsis": "La Ligne verte (1999) raconte l'histoire de Paul Edgecomb, un gardien de prison travaillant sur le quartier des condamnés à mort, surnommé 'la ligne verte'. L'intrigue se concentre sur l'arrivée de John Coffey, un homme imposant mais doux, accusé du meurtre de deux jeunes filles. Cependant, Paul et ses collègues découvrent que John possède des pouvoirs surnaturels de guérison, ce qui soulève des questions sur sa culpabilité. Le film explore des thèmes de justice, de rédemption, de compassion et de la nature du bien et du mal dans un contexte où la frontière entre les deux devient floue.",
+      "genre": [
+        "Crime",
+        "Drame",
+        "Fantastique"
+      ],
+      "duree": "3h9",
+      "affiche": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNvt4I-19S00SbzWFYzGLegmaoEXb62E4TQ&s"
+    },
+    {
+      "id": "18",
+      "titre": "Gladiator",
+      "realisateur": "Ridley Scott",
+      "annee": 2000,
+      "synopsis": "Gladiator (2000) suit Maximus Decimus Meridius, un général romain loyal, trahi par l'empereur Commode après la mort de l'empereur Marcus Aurelius. Réduit en esclavage et forcé de devenir gladiateur, Maximus cherche à venger la mort de sa famille et à renverser l'empereur tyrannique. À travers des combats dans l'arène, Maximus gagne en popularité et devient un symbole de résistance contre la corruption de Rome. Ce film épique explore des thèmes de vengeance, de loyauté, de sacrifice et de la quête de la justice dans un monde brutal.",
+      "genre": [
+        "Action",
+        "Aventure",
+        "Drame"
+      ],
+      "duree": "2h35",
+      "affiche": "https://sm.ign.com/t/ign_fr/screenshot/default/blob_ff2m.1024.jpg"
+    },
+    {
+      "id": "19",
+      "titre": "The Lion King",
+      "realisateur": "Roger Allers, Rob Minkoff",
+      "annee": 1994,
+      "synopsis": "The Lion King (1994) raconte l'histoire de Simba, un jeune lion héritier du trône du royaume des animaux, qui doit faire face à la trahison de son oncle Scar, responsable de la mort de son père, Mufasa. Après la tragédie, Simba s'exile et grandit loin de son royaume, mais il finit par revenir pour revendiquer son droit légitime et restaurer l'harmonie dans la savane. Ce film d'animation classique explore des thèmes de courage, de responsabilité, de rédemption et de la quête de soi à travers le cycle de la vie.",
+      "genre": [
+        "Animation",
+        "Aventure",
+        "Drame"
+      ],
+      "duree": "1h28",
+      "affiche": "https://d23.com/app/uploads/2019/10/0-the-lion-king.jpg"
+    },
+    {
+      "id": "20",
+      "titre": "Avengers: Endgame",
+      "realisateur": "Anthony Russo, Joe Russo",
+      "annee": 2019,
+      "synopsis": "Avengers: Endgame (2019) suit les Avengers après la dévastation causée par Thanos, qui a réussi à obtenir les six pierres d'infinité et à anéantir la moitié de l'univers. Les survivants, y compris Iron Man, Captain America, Thor, Hulk, Black Widow et Hawkeye, cherchent un moyen de renverser les effets du claquement de doigts de Thanos. À travers un voyage dans le temps pour récupérer les pierres d'infinité, ils unissent leurs forces pour une bataille ultime contre Thanos. Ce film explore des thèmes de sacrifice, de courage, de rédemption et de l'importance de l'unité face à la perte.",
+      "genre": [
+        "Action",
+        "Aventure",
+        "Drame"
+      ],
+      "duree": "3h2",
+      "affiche": "https://telecable.cdnartwhere.eu/sites/default/files/styles/article/public/_AVENGERS_ENDGAME_0.jpg?itok=DTr9uqfn"
+    },
+    {
+      "id": "21",
+      "titre": "Django Unchained",
+      "realisateur": "Quentin Tarantino",
+      "annee": 2012,
+      "synopsis": "Django Unchained (2012) raconte l'histoire de Django, un esclave affranchi, qui s'associe à un chasseur de primes allemand, le Dr. King Schultz, pour retrouver et sauver sa femme, Broomhilda, détenue par un propriétaire terrien cruel, Calvin Candie. Ensemble, ils infiltrent la plantation 'Candyland', où Django et Schultz élaborent un plan pour libérer Broomhilda. Le film mêle action, suspense et réflexion sur l'esclavage, tout en explorant des thèmes de liberté, de vengeance et de moralité dans une histoire violente et visuellement marquante.",
+      "genre": [
+        "Western",
+        "Drame"
+      ],
+      "duree": "2h45",
+      "affiche": "https://www.premiere.fr/sites/default/files/styles/scale_crop_1280x720/public/2019-05/DjangoUnchained.jpg"
+    },
+    {
+      "id": "22",
+      "titre": "The Social Network",
+      "realisateur": "David Fincher",
+      "annee": 2010,
+      "synopsis": "The Social Network (2010) raconte l'histoire de la création de Facebook, l'un des plus grands réseaux sociaux du monde. Le film suit Mark Zuckerberg, un étudiant de Harvard, qui, avec l'aide de ses amis Eduardo Saverin, Dustin Moskovitz et Chris Hughes, fonde le site à l'origine de la révolution des réseaux sociaux. Cependant, l'ascension fulgurante de Facebook est marquée par des conflits juridiques et des trahisons, notamment avec Sean Parker, co-fondateur de Napster. Ce film explore des thèmes de succès, d'ambition, d'amitié, de trahison et de l'impact de la technologie sur les relations humaines.",
+      "genre": [
+        "Biographie",
+        "Drame"
+      ],
+      "duree": "2h",
+      "affiche": "https://i.ytimg.com/vi/IjG6fHN4hsM/maxresdefault.jpg"
+    },
+    {
+      "id": "24",
+      "titre": "The Wolf of Wall Street",
+      "realisateur": "Martin Scorsese",
+      "annee": 2013,
+      "synopsis": "The Wolf of Wall Street (2013) raconte l'ascension fulgurante et la chute de Jordan Belfort, un courtier en valeurs mobilières de Wall Street, qui fonde sa propre société, Stratton Oakmont. Grâce à des méthodes douteuses et à des arnaques financières, Belfort amasse une fortune colossale et mène une vie de luxe, d'excès et de débauche. Cependant, son empire s'effondre sous la pression de la fraude et des enquêtes fédérales. Ce film, basé sur une histoire vraie, explore des thèmes de corruption, de cupidité, de pouvoir et des conséquences du rêve américain débridé.",
+      "genre": [
+        "Biographie",
+        "Comédie",
+        "Crime"
+      ],
+      "duree": "3h",
+      "affiche": "https://media.gqmagazine.fr/photos/616e89cb0d8f1210ce5b0850/16:9/w_2560%2Cc_limit/WOLF.jpg"
+    },
+    {
+      "id": "25",
+      "titre": "Whiplash",
+      "realisateur": "Damien Chazelle",
+      "annee": 2014,
+      "synopsis": "Whiplash (2014) suit Andrew Neiman, un jeune batteur de jazz talentueux, qui rêve de devenir l'un des plus grands musiciens de son époque. Il intègre l'une des meilleures écoles de musique du pays, où il rencontre Terence Fletcher, un professeur de musique extrêmement exigeant et cruel. Sous la pression intense de Fletcher, Andrew se pousse à ses limites physiques et mentales pour atteindre la perfection. Ce film explore des thèmes de passion, de sacrifice, de la quête de la perfection artistique et des coûts personnels associés à l'ambition.",
+      "genre": [
+        "Drame",
+        "Musical"
+      ],
+      "duree": "1h47",
+      "affiche": "https://deneb.philharmoniedeparis.fr/uploads/images/cache/event_large/rc/4HyJu0Ky/uploads/images/Whiplash-by-Ad-Vitam-Distribution-3.jpg"
+    },
+    {
+      "id": "26",
+      "titre": "La La Land",
+      "realisateur": "Damien Chazelle",
+      "annee": 2016,
+      "synopsis": "La La Land (2016) raconte l'histoire de Mia, une actrice en herbe, et de Sebastian, un musicien de jazz passionné, qui tombent amoureux à Los Angeles. Tandis qu'ils poursuivent leurs rêves professionnels respectifs, leur relation est mise à l'épreuve par les sacrifices nécessaires pour réussir dans un monde artistique impitoyable. Le film explore des thèmes de l'amour, de la carrière, du rêve américain et des choix difficiles entre la vie personnelle et professionnelle, le tout sur fond de musique et de danse dans un hommage vibrant aux classiques du cinéma musical.",
+      "genre": [
+        "Comédie musicale",
+        "Drame"
+      ],
+      "duree": "2h8",
+      "affiche": "https://i0.wp.com/seriesdefilms.com/wp-content/uploads/2017/01/lalaland.jpg?fit=1136%2C533&ssl=1"
+    },
+    {
+      "id": "27",
+      "titre": "Joker",
+      "realisateur": "Todd Phillips",
+      "annee": 2019,
+      "synopsis": "Joker (2019) raconte l'histoire d'Arthur Fleck, un comédien raté et clown professionnel vivant dans une Gotham City en déclin. Marginalisé et maltraité par la société, Arthur sombre dans la folie, donnant naissance au personnage du Joker, un criminel anarchique. À travers sa transformation en un symbole de rébellion, le film explore les thèmes de la souffrance mentale, de l'isolement social, de la violence et des conséquences d'une société qui ignore les plus vulnérables. Ce film provocateur et sombre met en lumière la genèse d'un des plus célèbres antagonistes de l'univers de Batman.",
+      "genre": [
+        "Drame",
+        "Thriller"
+      ],
+      "duree": "2h2",
+      "affiche": "https://chocobonplan.com/wp-content/uploads/2024/04/SLIDER-affiche-joker-folie-a%CC%80-deux-1024x614.jpg"
+    },
+    {
+      "id": "28",
+      "titre": "Shutter Island",
+      "realisateur": "Martin Scorsese",
+      "annee": 2010,
+      "synopsis": "Shutter Island (2010) suit Teddy Daniels, un marshal des États-Unis, envoyé sur l'île de Shutter Island pour enquêter sur la disparition d'une patiente de l'hôpital psychiatrique Ashecliffe. Au fur et à mesure de son enquête, Teddy découvre des secrets inquiétants et commence à douter de la vérité qui lui est présentée. Alors que l'île et ses habitants semblent plus mystérieux et dangereux, Teddy lutte pour démêler les mensonges et les illusions, tout en étant confronté à des révélations bouleversantes. Ce thriller psychologique explore des thèmes de la folie, de la mémoire, de la culpabilité et de l'identité.",
+      "genre": [
+        "Mystère",
+        "Thriller"
+      ],
+      "duree": "2h18",
+      "affiche": "https://www.premiere.fr/sites/default/files/styles/scale_crop_border_1280x720/public/2020-02/Collage%20sans%20titre%20%2815%29_2.jpg"
+    },
+    {
+      "id": "29",
+      "titre": "Once Upon a Time in Hollywood",
+      "realisateur": "Quentin Tarantino",
+      "annee": 2019,
+      "synopsis": "Once Upon a Time in Hollywood (2019) se déroule à Los Angeles en 1969, au moment où l'âge d'or d'Hollywood touche à sa fin. Le film suit Rick Dalton, un acteur de télévision vieillissant, et son double cascadeur, Cliff Booth, alors qu'ils naviguent dans les changements de l'industrie cinématographique. En parallèle, la famille de l'actrice Sharon Tate, qui vit à proximité, se retrouve mêlée à des événements tragiques. Ce film de Quentin Tarantino rend hommage à l'Hollywood de l'époque, tout en mélangeant réalité et fiction pour créer une histoire de rédemption, d'amitié et de nostalgie.",
+      "genre": [
+        "Comédie dramatique"
+      ],
+      "duree": "2h41",
+      "affiche": "https://www.tallengestore.com/cdn/shop/products/OnceUponATimeInHollywood-LeonardoDeCaprio-QuentinTarantino-HollywoodEnglishMoviePoster_2da56ca7-9a3e-418f-a7a7-4df493c26c91.jpg?v=1635236424"
+    },
+    {
+      "id": "30",
+      "titre": "Tenet",
+      "realisateur": "Christopher Nolan",
+      "annee": 2020,
+      "synopsis": "Tenet (2020) suit un agent du FBI, connu sous le nom de Protagoniste, qui se voit confier une mission mystérieuse pour prévenir la Troisième Guerre mondiale. À travers une technologie qui permet d'inverser le flux du temps, il se lance dans une aventure complexe où il doit déjouer un complot menaçant, manipulant le temps et la réalité pour empêcher un cataclysme futur. Le film explore des thèmes de destin, de libre arbitre, de manipulation temporelle et de sacrifices personnels dans un thriller intense et intellectuellement stimulant.",
+      "genre": [
+        "Action",
+        "Science-fiction"
+      ],
+      "duree": "2h30",
+      "affiche": "https://oblikon.net/wp-content/uploads/tenet-palindrome.jpg"
+    },
+    {
+      "id": "31",
+      "titre": "The Grand Budapest Hotel",
+      "realisateur": "Wes Anderson",
+      "annee": 2014,
+      "synopsis": "The Grand Budapest Hotel (2014) raconte l'histoire de Gustave H., un concierge légendaire du Grand Budapest Hotel, et de Zero Moustafa, un jeune employé devenu son ami fidèle. Ensemble, ils se retrouvent impliqués dans une série de mystères, dont le vol d'une peinture précieuse et le meurtre d'une riche cliente, Madame D. Le film se déroule dans l'entre-deux-guerres, avec un style visuel distinctif, et explore des thèmes de loyauté, d'amitié, de l'impact du passé et du chaos qui découle des événements mondiaux sur la vie des individus. Ce récit comique et excentrique est marqué par des personnages colorés et une mise en scène unique.",
+      "genre": [
+        "Comédie",
+        "Drame"
+      ],
+      "duree": "1h39",
+      "affiche": "https://i.ytimg.com/vi/Lo1nz-scO4Q/maxresdefault.jpg"
+    },
+    {
+      "id": "32",
+      "titre": "The Revenant",
+      "realisateur": "Alejandro G. Iñárritu",
+      "annee": 2015,
+      "synopsis": "The Revenant (2015) raconte l'histoire de Hugh Glass, un trappeur du XIXe siècle, qui, après avoir été grièvement blessé et laissé pour mort par ses compagnons de voyage, lutte pour survivre dans la nature sauvage de l'Amérique. Poussé par le désir de vengeance contre ceux qui l'ont trahi, Glass entreprend un périple brutal à travers des paysages impitoyables, tout en affrontant les éléments, des animaux sauvages et ses propres limites physiques et mentales. Ce film épique, inspiré de faits réels, explore des thèmes de survie, de vengeance, de résilience et de l'esprit humain face à l'adversité.",
+      "genre": [
+        "Drame",
+        "Aventure"
+      ],
+      "duree": "2h36",
+      "affiche": "https://i.pathehome.com/product/global/phf-f2bsg6zyqs/344a8b-therevenant_b_fr.jpg?w=3840&fit=crop&crop=top%2Cleft&auto=format&q=45"
+    },
+    {
+      "id": "33",
+      "titre": "Birdman",
+      "realisateur": "Alejandro G. Iñárritu",
+      "annee": 2014,
+      "synopsis": "Riggan Thomson, un acteur autrefois célèbre pour son rôle de super-héros dans les films 'Birdman', lutte pour redorer son image et regagner sa place dans le monde du cinéma. Dans sa quête pour se réinventer, il produit une pièce de théâtre ambitieuse à Broadway. Alors qu'il se confronte à ses démons intérieurs, les limites entre la réalité et l'imaginaire s'estompent, et la pression de l'industrie du divertissement menace de le détruire.",
+      "genre": [
+        "Comédie",
+        "Drame"
+      ],
+      "duree": "1h59",
+      "affiche": "https://media.senscritique.com/media/000009044615/0/birdman.jpg"
+    },
+    {
+      "id": "34",
+      "titre": "Blade Runner 2049",
+      "realisateur": "Denis Villeneuve",
+      "annee": 2017,
+      "synopsis": "K, un blade runner de la nouvelle génération, découvre un secret ancien qui pourrait bouleverser l'équilibre fragile de la société humaine et des réplicants. Sa quête pour élucider ce mystère le mène à Rick Deckard, un ancien blade runner disparu depuis des décennies. Au fur et à mesure qu'il s'enfonce dans cette recherche, K doit confronter son propre passé et sa propre humanité, tout en étant pris dans un tourbillon de conspirations et de manipulations.",
+      "genre": [
+        "Science-fiction",
+        "Drame"
+      ],
+      "duree": "2h43",
+      "affiche": "https://www.parismatch.com/lmnr/var/pm/public/media/image/2022/03/03/20/Blade-Runner-2049-un-succes-en-demi-teinte.jpg?VersionId=2YK5Yi.Xjq2zSce3qYr9k8_fsJg_dbD9"
+    },
+    {
+      "id": "35",
+      "titre": "Black Panther",
+      "realisateur": "Ryan Coogler",
+      "annee": 2018,
+      "synopsis": "T'Challa, le jeune roi du Wakanda, doit endosser son rôle de souverain après la mort de son père. Alors qu'il lutte pour préserver l'héritage de son royaume et protéger sa nation secrète, une menace imprévue émerge sous la forme de Killmonger, un ancien allié au passé lié à celui de T'Challa. Cette confrontation met en lumière les dilemmes moraux et les responsabilités d'un roi, ainsi que la fragilité de l'unité au sein du Wakanda.",
+      "genre": [
+        "Action",
+        "Aventure"
+      ],
+      "duree": "2h15",
+      "affiche": "https://www.disneyphile.fr/wp-content/uploads/2022/11/fin-black-panther-wakanda-forever-scaled.jpg"
+    },
+    {
+      "id": "36",
+      "titre": "Coco",
+      "realisateur": "Lee Unkrich, Adrian Molina",
+      "annee": 2017,
+      "synopsis": "Miguel, un jeune garçon passionné de musique, rêve de devenir un musicien accompli malgré l'interdiction familiale de jouer de la musique. Lorsqu'il se retrouve transporté dans le monde des morts, il part à la recherche de ses ancêtres pour comprendre l'origine de cette malédiction. À travers cette aventure colorée et émouvante, Miguel découvre l'importance de la famille, de la mémoire et de l'héritage dans la transmission des rêves et des traditions.",
+      "genre": [
+        "Animation",
+        "Aventure",
+        "Fantastique"
+      ],
+      "duree": "1h45",
+      "affiche": "https://img.lemde.fr/2017/11/22/0/164/1414/945/1440/960/60/0/dcb1807_2017112545.0.2054893928COCO_01_web.jpg"
+    },
+    {
+      "id": "37",
+      "titre": "Get Out",
+      "realisateur": "Jordan Peele",
+      "annee": 2017,
+      "synopsis": "Chris, un jeune photographe afro-américain, se rend avec sa petite amie, Rose, dans la maison de ses parents pour le week-end. Ce qui semble être une rencontre familiale banale se transforme rapidement en un cauchemar terrifiant lorsque Chris découvre des secrets sinistres sur la famille de Rose. Alors que l'atmosphère devient de plus en plus oppressante, il réalise qu'il est pris dans un piège bien plus dangereux qu'il n'aurait jamais pu imaginer.",
+      "genre": [
+        "Horreur",
+        "Thriller"
+      ],
+      "duree": "1h44",
+      "affiche": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL8wMGhs7V3zPvkTH6IJkieQytWuT8P7jSKg&s"
+    },
+    {
+      "id": "38",
+      "titre": "Arrival",
+      "realisateur": "Denis Villeneuve",
+      "annee": 2016,
+      "synopsis": "Lorsque douze vaisseaux extraterrestres atterrissent à travers le monde, la linguiste Louise Banks est recrutée par l'armée américaine pour déchiffrer leur langage complexe. En travaillant avec un physicien, elle découvre que la communication avec les extraterrestres pourrait révolutionner la compréhension humaine du temps et de la réalité. Mais à mesure qu'elle plonge plus profondément dans ce mystère, Louise commence à vivre des événements qui semblent défier les lois de la physique, mettant à l'épreuve son esprit et sa perception de la réalité.",
+      "genre": [
+        "Science-fiction",
+        "Drame"
+      ],
+      "duree": "1h56",
+      "affiche": "https://m.media-amazon.com/images/S/pv-target-images/583e00c170b245117da3429c97ff3e346f93f0bb3cd1c89452e46a58116cc181.jpg"
+    },
+    {
+      "id": "39",
+      "titre": "Soul",
+      "realisateur": "Pete Docter",
+      "annee": 2020,
+      "synopsis": "Joe Gardner, un professeur de musique passionné mais désillusionné, meurt accidentellement avant de réaliser son rêve de devenir musicien. Propulsé dans une dimension spirituelle, il fait la rencontre de 22, une âme rebelle qui refuse de naître. Ensemble, ils entreprennent un voyage qui les aidera à découvrir le véritable sens de la vie et l'importance des petites choses. À travers cette aventure, Joe apprend que la passion ne suffit pas, et que la vie a une beauté profonde, même dans ses moments les plus simples.",
+      "genre": [
+        "Animation",
+        "Drame"
+      ],
+      "duree": "1h40",
+      "affiche": "https://www.radiofrance.fr/s3/cruiser-production/2020/04/31263006-7a43-4ce7-8f10-b1aa99cd0fcb/1200x680_soul.jpg"
+    },
+    {
+      "id": "40",
+      "titre": "Knives Out",
+      "realisateur": "Rian Johnson",
+      "annee": 2019,
+      "synopsis": "Après le meurtre mystérieux de Harlan Thrombey, un célèbre auteur de romans policiers, le détective Benoit Blanc est engagé pour enquêter sur les circonstances de sa mort. Alors qu'il interroge les membres de la famille de l'écrivain, il découvre une toile d'intrigues, de mensonges et de secrets. Chacun des suspects semble avoir un mobile, mais le détective découvre peu à peu que la vérité est bien plus complexe et surprenante qu'il ne l'avait imaginée.",
+      "genre": [
+        "Comédie",
+        "Mystère"
+      ],
+      "duree": "2h10",
+      "affiche": "https://historiamatica.ca/cine-histoire/wp-content/uploads/sites/29/2020/01/knives-out.jpg"
+    },
+    {
+      "id": "41",
+      "titre": "Dune",
+      "realisateur": "Denis Villeneuve",
+      "annee": 2021,
+      "synopsis": "Paul Atreides, un jeune noble, est propulsé dans un monde impitoyable alors que sa famille, les Atreides, reçoit le contrôle de la planète Arrakis, une vaste étendue désertique qui cache une ressource précieuse : l'épice. Alors qu'une guerre pour le contrôle de la planète éclate, Paul doit lutter pour protéger sa famille et faire face à un destin qui pourrait changer le cours de l'univers. Avec l'aide des Fremen, les habitants du désert, Paul devra naviguer entre le pouvoir, la trahison et les prophéties pour sauver son peuple et préserver l'avenir de la galaxie.",
+      "genre": [
+        "Science-fiction",
+        "Aventure"
+      ],
+      "duree": "2h35",
+      "affiche": "https://www.sciencepresse.qc.ca/sites/default/files/styles/large_16_9/public/2024-03/Dune-ver-des-sables.jpg?itok=jS63KtAE"
+    },
+    {
+      "id": "42",
+      "titre": "Encanto",
+      "realisateur": "Jared Bush, Byron Howard",
+      "annee": 2021,
+      "synopsis": "Dans les montagnes de Colombie, la famille Madrigal vit dans une maison magique où chaque membre possède un pouvoir unique. Mais Mirabel, la seule membre sans pouvoirs, se sent exclue et sans valeur. Lorsque la magie de la maison commence à disparaître, Mirabel se lance dans une quête pour sauver sa famille et leur héritage. Au fil de son aventure, elle découvre la véritable source de la magie et la force cachée qui réside en elle-même, prouvant que l'amour et la famille sont des pouvoirs bien plus puissants que la magie.",
+      "genre": [
+        "Animation",
+        "Comédie",
+        "Fantastique"
+      ],
+      "duree": "1h42",
+      "affiche": "https://culturellementvotre.fr/wp-content/uploads/2021/11/encanto-la-fantastique-famille-madrigal.jpg"
+    },
+    {
+      "id": "43",
+      "titre": "No Time to Die",
+      "realisateur": "Cary Joji Fukunaga",
+      "annee": 2021,
+      "synopsis": "James Bond, désormais retiré du service actif, est appelé à revenir lorsqu'un vieil ami de la CIA, Felix Leiter, lui demande de l'aide pour sauver un scientifique kidnappé. Ce qui semble être une mission de routine se transforme rapidement en une poursuite dangereuse qui met Bond face à un ennemi redoutable, Safin, équipé d'une technologie mortelle. Alors que Bond se confronte à ses démons passés, il doit également faire face à une menace plus grande que tout ce qu'il a connu auparavant, mettant en jeu l'avenir du monde.",
+      "genre": [
+        "Action",
+        "Espionnage"
+      ],
+      "duree": "2h43",
+      "affiche": "https://images.bfmtv.com/f9fRGZM5T_pZOnAF7X55o4CRFcw=/16x3:1584x885/1568x0/images/Daniel-Craig-et-Ana-de-Armas-dans-James-Bond-No-Time-To-Die-1137313.jpg"
+    },
+    {
+      "id": "45",
+      "titre": "The Batman",
+      "realisateur": "Matt Reeves",
+      "annee": 2022,
+      "synopsis": "Batman, un justicier solitaire, enquête sur une série de meurtres complexes commis par le mystérieux Riddler, un tueur qui semble vouloir exposer les secrets les plus sombres de Gotham City. Tandis que la ville sombre dans le chaos, Bruce Wayne, tout en dévoilant la vérité sur sa propre identité, doit affronter ses propres dilemmes moraux. Le film explore les origines de Batman et son combat pour la justice, tout en le confrontant à ses faiblesses et à la corruption omniprésente dans la ville qu'il a juré de protéger.",
+      "genre": [
+        "Action",
+        "Crime"
+      ],
+      "duree": "2h56",
+      "affiche": "https://www.premiere.fr/sites/default/files/styles/scale_crop_1280x720/public/2021-10/The%20Batman_0.jpg"
+    },
+    {
+      "id": "46",
+      "titre": "Spider-Man: No Way Home",
+      "realisateur": "Jon Watts",
+      "annee": 2021,
+      "synopsis": "Après que l'identité de Spider-Man ait été révélée au monde, Peter Parker demande l'aide de Doctor Strange pour effacer la mémoire de tous et restaurer l'anonymat de sa vie secrète. Cependant, une erreur magique ouvre des portails vers d'autres dimensions, amenant des versions alternatives de célèbres ennemis de Spider-Man. Peter doit désormais faire face à un chaos multiversel qui menace non seulement sa vie, mais aussi la sécurité de ses proches. Cette aventure épique voit Spider-Man collaborer avec d'autres versions de lui-même, tout en confrontant ses plus grandes épreuves.",
+      "genre": [
+        "Action",
+        "Aventure"
+      ],
+      "duree": "2h28",
+      "affiche": "https://vonguru.fr/wp-content/uploads/2021/12/spider-man-no-way-home-critique-cineserie-cover-vonguru-min.jpg"
+    },
+    {
+      "id": "47",
+      "titre": "Minari",
+      "realisateur": "Lee Isaac Chung",
+      "annee": 2020,
+      "synopsis": "Jacob et sa famille, immigrés coréens, s'installent dans une ferme isolée dans l'Arkansas dans l'espoir de réaliser leur rêve américain. Alors que Jacob cultive des légumes dans des conditions difficiles pour assurer un avenir meilleur, sa femme Monica doute de la viabilité du projet. Entre les difficultés économiques et les différences culturelles, la famille doit surmonter des défis personnels et familiaux. Le film explore les thèmes de l'identité, de l'immigration et du rêve américain à travers les yeux de la jeune Anne, leur fille, qui observe les bouleversements familiaux avec innocence et curiosité.",
+      "genre": [
+        "Drame"
+      ],
+      "duree": "1h55",
+      "affiche": "https://www.festival-deauville.com/wp-content/uploads/2020/07/comp_photo-film-minari-cmelissa-lukenbaugh-courtesy-of-a24-1000x665.jpg"
+    },
+    {
+      "id": "48",
+      "titre": "The Irishman",
+      "realisateur": "Martin Scorsese",
+      "annee": 2019,
+      "synopsis": "Frank Sheeran, un ancien tueur à gages, raconte son histoire à travers des décennies d'actions criminelles, notamment son implication dans la mystérieuse disparition de l'homme politique Jimmy Hoffa. À mesure qu'il se souvient de son passé, Sheeran dévoile les liens profonds et les trahisons au sein de la mafia et les conséquences d'une vie de violence et de loyauté. Le film explore le poids du temps, du regret et des choix faits dans un monde impitoyable de pouvoir et de crime organisé.",
+      "genre": [
+        "Biographie",
+        "Crime",
+        "Drame"
+      ],
+      "duree": "3h29",
+      "affiche": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDKmsFBcopkF_D5FwW2zMeVQ3-H_1zSrfQQ&s"
+    },
+    {
+      "id": "49",
+      "titre": "Nomadland",
+      "realisateur": "Chloé Zhao",
+      "annee": 2020,
+      "synopsis": "Après la crise économique qui a frappé les États-Unis, Fern, une femme d'une cinquantaine d'années, perd son travail et sa maison. Elle décide alors de vivre comme une nomade moderne, parcourant les États-Unis dans son van à la recherche de petits boulots saisonniers. Le film suit son voyage à travers les paysages américains, rencontrant d'autres personnes qui ont choisi cette vie de liberté et d'incertitude. À travers cette exploration de la solitude et de la résilience, Fern redécouvre un sens à sa vie tout en cherchant à se reconnecter avec son passé et ses rêves.",
+      "genre": [
+        "Drame"
+      ],
+      "duree": "1h48",
+      "affiche": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSABWZor7G4LB5-GhvUxiIuw5v-QSSS6Eo1rw&s"
+    },
+    {
+      "id": "50",
+      "titre": "Everything Everywhere All At Once",
+      "realisateur": "Daniel Kwan, Daniel Scheinert",
+      "annee": 2022,
+      "synopsis": "Evelyn Wang, une femme ordinaire, se retrouve confrontée à une menace cataclysmique qui menace non seulement son monde, mais aussi l'existence de tout le multivers. Alors qu'elle traverse différents univers parallèles, Evelyn prend conscience de la multitude de vies qu'elle aurait pu vivre et des choix qui l'ont amenée à cette situation. Dans cette aventure surréaliste et pleine de surprises, elle devra apprendre à accepter son passé et à embrasser l'infinité de possibilités qui s'offrent à elle pour sauver sa famille et l'ensemble du multivers.",
+      "genre": [
+        "Action",
+        "Science-fiction",
+        "Comédie"
+      ],
+      "duree": "2h19",
+      "affiche": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkHVbRrBsg64Ku1gQeHAVKmox7Ey8rW69fg&s"
+    },
+    {
+      "id": "51",
+      "titre": "The Lighthouse",
+      "realisateur": "Robert Eggers",
+      "annee": 2019,
+      "synopsis": "Deux gardiens de phare, isolés sur une île reculée, sombrent peu à peu dans la folie. À mesure que les événements étranges se multiplient, la paranoïa et les hallucinations prennent le dessus, poussant chacun à ses limites. L'isolement et les tensions croissantes les entraînent dans une spirale de confusion mentale et de violence, les confrontant à leurs peurs les plus profondes.",
+      "genre": [
+        "Drame",
+        "Horreur"
+      ],
+      "duree": "1h49",
+      "affiche": "https://www.cinematraque.com/wp-content/uploads/2022/03/lighthouse-film.jpg"
+    },
+    {
+      "id": "52",
+      "titre": "1917",
+      "realisateur": "Sam Mendes",
+      "annee": 2019,
+      "synopsis": "Deux soldats britanniques sont envoyés dans une mission périlleuse en pleine Première Guerre mondiale. Leur objectif : traverser les lignes ennemies pour prévenir un bataillon d'une embuscade imminente. Tout au long de leur aventure, ils affrontent des dangers mortels, des paysages dévastés et des dilemmes moraux qui testent leur courage et leur humanité.",
+      "genre": [
+        "Guerre",
+        "Drame"
+      ],
+      "duree": "1h59",
+      "affiche": "https://focus.huffingtonpost.fr/2022/07/23/83/0/1600/900/1820/1023/75/0/bf7acb7_1658613894698-5d4458463b00003900dae2ae.jpeg"
+    },
+    {
+      "id": "53",
+      "titre": "Judas and the Black Messiah",
+      "realisateur": "Shaka King",
+      "annee": 2021,
+      "synopsis": "L'histoire vraie de Fred Hampton, leader charismatique des Black Panthers, et de sa trahison par William O'Neal, un informateur au service du FBI. Alors que Hampton lutte pour l'égalité raciale et la justice sociale, O'Neal, sous pression, joue un rôle clé dans sa chute. Le film explore la tension entre pouvoir, loyauté et idéaux, ainsi que l'impact de la répression gouvernementale sur les mouvements sociaux.",
+      "genre": [
+        "Biographie",
+        "Drame"
+      ],
+      "duree": "2h6",
+      "affiche": "https://img.lemde.fr/2021/04/24/0/351/2604/1736/1440/960/60/0/187fb6c_211609318-judas-and-the-black-messiah.jpg"
+    },
+    {
+      "id": "54",
+      "titre": "Her",
+      "realisateur": "Spike Jonze",
+      "annee": 2013,
+      "synopsis": "Un homme solitaire, en pleine crise émotionnelle après une rupture, développe une relation intime avec une intelligence artificielle avancée. Alors qu'il s'ouvre à cette entité, qui se nomme Samantha, il se trouve confronté aux limites de ce que signifie être humain et à l'évolution de la technologie, explorant l'amour, la solitude et la complexité des émotions humaines à travers une nouvelle forme d'interaction.",
+      "genre": [
+        "Romance",
+        "Science-fiction",
+        "Drame"
+      ],
+      "duree": "2h6",
+      "affiche": "https://3238leblogdemarvelll-1278.kxcdn.com/wp-content/uploads/2014/02/her-banniere.jpg"
+    },
+    {
+      "id": "55",
+      "titre": "Jojo Rabbit",
+      "realisateur": "Taika Waititi",
+      "annee": 2019,
+      "synopsis": "Un jeune garçon, fervent adepte de la Hitlerjugend, voit sa vie bouleversée lorsqu'il découvre que sa mère cache une jeune fille juive dans leur maison, risquant ainsi leur sécurité. Alors que Jojo se débat avec son amour pour un imaginaire Adolf Hitler, il commence à remettre en question ses croyances et les enseignements de son enfance, dans un contexte de guerre, d'amitié et de découverte de soi.",
+      "genre": [
+        "Comédie dramatique",
+        "Guerre"
+      ],
+      "duree": "1h48",
+      "affiche": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-uU-y0EP8LF64NW_CBemaV3j0Te_Aa0mARg&s"
+    },
+    {
+      "id": "56",
+      "titre": "Doctor Strange",
+      "realisateur": "Scott Derrickson",
+      "annee": 2016,
+      "synopsis": "Un neurochirurgien brillant mais arrogant, dont la carrière est anéantie par un terrible accident de voiture, part en quête de guérison. Cette quête le mène dans un monastère en Asie où il découvre les arts mystiques et la magie. Alors qu'il apprend à maîtriser ses nouvelles capacités, il se trouve confronté à un ancien disciple devenu méchant, menaçant la réalité elle-même.",
+      "genre": [
+        "Action",
+        "Aventure",
+        "Fantastique"
+      ],
+      "duree": "1h55",
+      "affiche": "https://media.senscritique.com/media/000016784700/0/doctor_strange.jpg"
+    },
+    {
+      "id": "58",
+      "titre": "The King's Speech",
+      "realisateur": "Tom Hooper",
+      "annee": 2010,
+      "synopsis": "Le roi George VI, qui souffre d'un bégaiement paralysant, doit surmonter sa difficulté à prendre la parole en public alors que les tensions mondiales montent avant la Seconde Guerre mondiale. Avec l'aide d'un orthophoniste non conventionnel, il tente de surmonter ses peurs et de redonner confiance au peuple britannique dans une période de crise mondiale. L'histoire est un portrait émouvant d'une lutte personnelle contre la pression du pouvoir.",
+      "genre": [
+        "Biographie",
+        "Drame"
+      ],
+      "duree": "1h58",
+      "affiche": "https://images.bauerhosting.com/legacy/empire-tmdb/films/45269/images/hAQKDTVKk04LWn82OYWLBPpsaVa.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80"
+    },
+    {
+      "id": "60",
+      "titre": "The Shape of Water",
+      "realisateur": "Guillermo del Toro",
+      "annee": 2017,
+      "synopsis": "Dans les années 1960, une femme muette vivant dans un laboratoire gouvernemental top secret se lie secrètement d'amitié avec une créature amphibie capturée par l'armée. Alors qu'ils développent une connexion profonde, elle se retrouve confrontée à des choix moraux dangereux. Alors qu'une relation interdite s'épanouit, les deux êtres, rejetés par la société, luttent pour leur liberté et leur droit à l'amour dans un monde brutalement divisé.",
+      "genre": [
+        "Drame",
+        "Fantastique"
+      ],
+      "duree": "2h3",
+      "affiche": "https://oblikon.net/wp-content/uploads/shape-of-water-monstre-1024x576.jpg"
+    },
+    {
+      "id": "62",
+      "titre": "Mad Max: Fury Road",
+      "realisateur": "George Miller",
+      "annee": 2015,
+      "synopsis": "Dans un monde dévasté par une apocalypse, Max, un survivant hanté par son passé, s'allie à Furiosa, une guerrière rebelle, pour échapper à Immortan Joe, un tyran sanguinaire. Ensemble, ils mènent un combat désespéré pour sauver un groupe de femmes opprimées et fuir un territoire impitoyable. Leur course folle à travers le désert devient une quête de rédemption et de liberté, où l'espoir semble être leur dernière arme contre un monde en ruines.",
+      "genre": [
+        "Action",
+        "Science-fiction"
+      ],
+      "duree": "2h",
+      "affiche": "https://media.vanityfair.fr/photos/60d34082828a7f42e233a9ac/16:9/w_1280,c_limit/vf_slider_mad_max_6473.jpeg"
+    },
+    {
+      "id": "63",
+      "titre": "Parasite",
+      "realisateur": "Bong Joon-ho",
+      "annee": 2019,
+      "synopsis": "Une famille pauvre, les Kim, réussit à infiltrer la vie d'une famille riche, les Park, en se faisant passer pour des employés qualifiés. Mais cette intrusion dans la sphère des privilégiés finit par entraîner une série d'événements dramatiques et violents, mettant en lumière les inégalités sociales et les tensions sous-jacentes. Le film s'attarde sur la lutte des classes, les ambitions et la survie dans un monde profondément injuste, tout en mêlant comédie noire et thriller.",
+      "genre": [
+        "Drame",
+        "Thriller"
+      ],
+      "duree": "2h12",
+      "affiche": "https://leclaireur.fnac.com/wp-content/uploads/2024/02/20240228051131-parasyte-the-grey-1.jpg"
+    },
+    {
+      "id": "65",
+      "titre": "The Dark Knight",
+      "realisateur": "Christopher Nolan",
+      "annee": 2008,
+      "synopsis": "Batman se confronte à son plus grand ennemi, le Joker, un criminel anarchiste qui veut déstabiliser Gotham City en semant le chaos. Tandis que le Joker manipule les forces de l'ordre et les citoyens, Batman doit faire face à des dilemmes moraux difficiles, mettant en jeu sa propre identité et sa mission de justice. Le film explore la dualité entre le héros et le vilain, questionnant les limites de la morale et de la justice dans une société en crise.",
+      "genre": [
+        "Action",
+        "Crime",
+        "Drame"
+      ],
+      "duree": "2h32",
+      "affiche": "https://www.lesdechargeurs.fr/wp-content/uploads/2024/08/les-meilleures-citations-de-la-trilogie-the-dark-knight-et-leurs-secrets-1024x683.jpg"
+    },
+    {
+      "id": "66",
+      "titre": "Interstellar",
+      "realisateur": "Christopher Nolan",
+      "annee": 2014,
+      "synopsis": "Dans un futur proche où la Terre est en train de mourir, un groupe d'astronautes, dirigé par Cooper, se lance dans une mission audacieuse à travers un trou de ver pour trouver une nouvelle planète habitable. Ce voyage épique les mène au-delà des limites de la science et de l'espace connu, tout en explorant l'amour, la perte, et le sacrifice. Le film mêle aventure spatiale et réflexion sur la survie de l'humanité face à la destruction imminente de sa planète.",
+      "genre": [
+        "Science-fiction",
+        "Aventure",
+        "Drame"
+      ],
+      "duree": "2h49",
+      "affiche": "https://www.slate.fr/uploads/store/story_94323/large_landscape_94323.jpg"
+    },
+    {
+      "id": "70",
+      "titre": "Schindler's List",
+      "realisateur": "Steven Spielberg",
+      "annee": 1993,
+      "synopsis": "Basé sur l'histoire vraie de l'industriel allemand Oskar Schindler, ce film raconte comment, durant la Seconde Guerre mondiale, Schindler a sauvé la vie de plus de 1 100 Juifs en les employant dans ses usines, malgré les risques énormes qu'il prenait en défiant les nazis. À travers un portrait poignant de l'Holocauste, le film montre l'évolution d'un homme d'affaires opportuniste devenu un héros moral face à la barbarie nazie. Une histoire de courage, de rédemption et de sacrifice.",
+      "genre": [
+        "Biographie",
+        "Drame",
+        "Historique"
+      ],
+      "duree": "3h15",
+      "affiche": "https://www.historyscope.fr/wp-content/uploads/2021/04/liste-schindler-932x531.jpg"
+    },
+    {
+      "id": "72",
+      "titre": "The Matrix",
+      "realisateur": "The Wachowskis",
+      "annee": 1999,
+      "synopsis": "Thomas Anderson, un hacker connu sous le pseudonyme de Neo, découvre que la réalité dans laquelle il vit n'est qu'une simulation créée par des machines pour contrôler l'humanité. Il rejoint un groupe de résistants mené par Morpheus, qui lui révèle la vérité et l'entraîne dans une lutte pour libérer l'humanité. Ce film iconique mêle action intense, philosophie et science-fiction, tout en posant des questions profondes sur la nature de la réalité et la liberté de choix.",
+      "genre": [
+        "Action",
+        "Science-fiction"
+      ],
+      "duree": "2h16",
+      "affiche": "https://www.rollingstone.fr/wp-content/uploads/2019/12/the-matrix-reloaded-neo-balles.jpg"
+    },
+    {
+      "id": "73",
+      "titre": "The Godfather",
+      "realisateur": "Francis Ford Coppola",
+      "annee": 1972,
+      "synopsis": "L'histoire de la famille Corleone, une dynastie criminelle italienne influente, commence avec Don Vito Corleone, un patriarche respecté et redouté, qui gouverne son empire avec une main de fer. Lorsque son fils aîné Sonny est tué et que la situation devient de plus en plus instable, Michael, son plus jeune fils, se retrouve inexorablement entraîné dans les affaires de la famille. À mesure que Michael prend les rênes de l'empire familial, le film explore le thème de l'héritage, de la loyauté et de la transformation d'un homme en une figure impitoyable.",
+      "genre": [
+        "Crime",
+        "Drame"
+      ],
+      "duree": "2h55",
+      "affiche": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDar2reCy4_p2rzOr8JLz-7dgv9qKekSy3A&s"
+    },
+    {
+      "id": "74",
+      "titre": "Pulp Fiction",
+      "realisateur": "Quentin Tarantino",
+      "annee": 1994,
+      "synopsis": "Les vies de plusieurs personnages interconnectés se croisent dans ce film à la narration non linéaire. Au centre, Vincent et Jules, deux tueurs à gages, naviguent dans un monde de crime, de violence et d'absurde. L'intrigue complexe explore les thèmes de la rédemption, des choix moraux et de la chance, le tout avec des dialogues percutants et des scènes mémorables. L'impact de ce film sur la culture pop est immense, mélangeant comédie noire et thriller tout en brisant les conventions narratives.",
+      "genre": [
+        "Crime",
+        "Drame"
+      ],
+      "duree": "2h34",
+      "affiche": "https://m.media-amazon.com/images/I/71ox+EoFO7L._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "76",
+      "titre": "Citizen Kane",
+      "realisateur": "Orson Welles",
+      "annee": 1941,
+      "synopsis": "Un journaliste enquête sur la vie du magnat de la presse Charles Foster Kane, un homme dont la carrière et la vie personnelle sont marquées par le pouvoir, la solitude et les conflits internes. Son dernier mot, 'Rosebud', devient le mystère central du film, un mot qui détient la clé de ses désirs inassouvis. Ce chef-d'œuvre du cinéma explore la quête du bonheur, la corruption de l'âme humaine et les illusions du rêve américain.",
+      "genre": [
+        "Drame",
+        "Mystère"
+      ],
+      "duree": "1h59",
+      "affiche": "https://www.festival-deauville.com/wp-content/uploads/2024/08/photo-45-citizen-kane-1024x667.jpg"
+    },
+    {
+      "id": "77",
+      "titre": "Forrest Gump",
+      "realisateur": "Robert Zemeckis",
+      "annee": 1994,
+      "synopsis": "Forrest Gump, un homme d'une simplicité désarmante, traverse les événements marquants de l'histoire américaine des années 50 à 80. Avec son innocence et sa sincérité, il influence des moments clés, comme la guerre du Vietnam ou la création de la célèbre entreprise Bubba Gump Shrimp. Sa relation avec Jenny, une jeune femme qu'il aime profondément, traverse des hauts et des bas, et son histoire devient un voyage à travers les moments d'une vie pleine d'imprévu. Le film explore les thèmes de la destinée, de l'amour et de la persévérance.",
+      "genre": [
+        "Drame",
+        "Romance"
+      ],
+      "duree": "2h22",
+      "affiche": "https://www.serieously.com/app/uploads/2024/11/forrest-gump-et-jenny.jpg"
+    },
+    {
+      "id": "78",
+      "titre": "The Silence of the Lambs",
+      "realisateur": "Jonathan Demme",
+      "annee": 1991,
+      "synopsis": "Clarice Starling, une jeune recrue du FBI, consulte le Dr. Hannibal Lecter, un tueur en série et psychiatre brillant, incarcéré dans une prison de haute sécurité. Elle cherche à obtenir son aide pour capturer un autre tueur, Buffalo Bill, qui séquestre et tue ses victimes. Au fur et à mesure, une relation psychologiquement intense se développe entre Starling et Lecter, qui manipule et confronte ses peurs et ses traumatismes. Le film explore la psychologie du mal, le pouvoir de la manipulation et la lutte pour la justice dans un monde empreint de terreur.",
+      "genre": [
+        "Crime",
+        "Horreur",
+        "Thriller"
+      ],
+      "duree": "1h58",
+      "affiche": "https://ychef.files.bbci.co.uk/1280x720/p04w4b54.jpg"
+    },
+    {
+      "id": "84",
+      "titre": "12 Years a Slave",
+      "realisateur": "Steve McQueen",
+      "annee": 2013,
+      "synopsis": "Basé sur l'histoire vraie de Solomon Northup, un homme libre d'origine afro-américaine vivant dans l'État de New York au début du XIXe siècle. Après avoir été enlevé et réduit en esclavage, Solomon endure 12 années de souffrances et d'humiliations dans des plantations du sud des États-Unis. À travers ses luttes pour sa dignité et sa liberté, le film expose de manière poignante l'inhumanité de l'esclavage, tout en mettant en lumière la résistance de l'esprit humain face à l'oppression.",
+      "genre": [
+        "Drame",
+        "Historique"
+      ],
+      "duree": "2h14",
+      "affiche": "https://cdn.britannica.com/62/172962-050-BFFE1D81/Solomon-Northup-Edwin-Epps-men-Chiwetel-Ejiofor.jpg"
+    },
+    {
+      "id": "85",
+      "titre": "Django Unchained",
+      "realisateur": "Quentin Tarantino",
+      "annee": 2012,
+      "synopsis": "Dans ce western réinventé, Django, un ancien esclave, fait équipe avec le chasseur de primes allemand Dr. King Schultz pour libérer sa femme, Broomhilda, qui est sous l'emprise d'un cruel propriétaire terrien, Calvin Candie. Tandis que Schultz et Django infiltrent le domaine de 'Candyland' pour sauver Broomhilda, les événements prennent une tournure violente et tragique. Le film explore la vengeance, la liberté et la moralité dans un contexte de ségrégation raciale et de brutalité historique.",
+      "genre": [
+        "Western",
+        "Drame",
+        "Crime"
+      ],
+      "duree": "2h45",
+      "affiche": "https://media.gqmagazine.fr/photos/5dea6130061f7b00082f3405/16:9/w_2560%2Cc_limit/Djangounchained.jpg"
+    },
+    {
+      "id": "86",
+      "titre": "The Martian",
+      "realisateur": "Ridley Scott",
+      "annee": 2015,
+      "synopsis": "Après qu'un accident laisse l'astronaute Mark Watney pour mort sur Mars, il utilise ses compétences en ingénierie et en botanique pour survivre dans l'isolement total. Seul face à des ressources limitées, il parvient à cultiver de la nourriture, à récupérer de l'eau et à maintenir son moral intact en attendant une possible mission de sauvetage. Le film raconte l'incroyable détermination de Watney pour survivre, tout en abordant des thèmes de coopération, de résilience et de l'esprit humain face à l'adversité.",
+      "genre": [
+        "Science-fiction",
+        "Aventure",
+        "Drame"
+      ],
+      "duree": "1h44",
+      "affiche": "https://static.scientificamerican.com/sciam/cache/file/63A38856-BBC6-4083-98A583419A0BC9EC_source.jpg?crop=16%3A9%2Csmart&w=1920"
+    },
+    {
+      "id": "87",
+      "titre": "The Pursuit of Happyness",
+      "realisateur": "Gabriele Muccino",
+      "annee": 2006,
+      "synopsis": "Basé sur l'histoire vraie de Chris Gardner, un homme en situation de pauvreté extrême qui lutte pour offrir un avenir meilleur à son jeune fils. Après avoir perdu son emploi et sa maison, Chris décide de tout risquer en poursuivant une carrière dans la finance. Alors qu'ils vivent dans la rue, il parvient à obtenir un stage non rémunéré dans une entreprise de courtage. À travers des épreuves incroyables, le film est une leçon de persévérance et d'espoir, soulignant l'importance de ne jamais abandonner face aux défis.",
+      "genre": [
+        "Biographie",
+        "Drame"
+      ],
+      "duree": "1h57",
+      "affiche": "https://m.media-amazon.com/images/S/pv-target-images/9dc3745b2f18cb00844f8f508b36717f84d11ba7aef3faabe01785f850432024.jpg"
+    },
+    {
+      "id": "88",
+      "titre": "The Pianist",
+      "realisateur": "Roman Polanski",
+      "annee": 2002,
+      "synopsis": "L'histoire émouvante de Władysław Szpilman, un pianiste juif polonais, qui survit à l'occupation nazie de Varsovie. Le film raconte son parcours de la gloire à l'horreur, après la destruction de sa famille et de sa ville, et sa lutte pour survivre dans les ruines du ghetto de Varsovie. Grâce à sa musique, il parvient à échapper à la mort à plusieurs reprises, mais il doit également faire face aux dangers incessants de l'occupation. Ce film explore la résilience humaine dans des circonstances extrêmes et l'impact dévastateur de la guerre sur l'art et l'humanité.",
+      "genre": [
+        "Biographie",
+        "Drame",
+        "Historique"
+      ],
+      "duree": "2h30",
+      "affiche": "https://m.media-amazon.com/images/M/MV5BMTMxMTUzOTYxNF5BMl5BanBnXkFtZTcwNDYxMTIyMw@@._V1_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin123",
+      "userpassword": "1234",
+      "type": "admin"
+    },
+    {
+      "id": "2",
+      "username": "user123",
+      "userpassword": "1234",
+      "type": "user"
+    },
+    {
+      "id": "b8af",
+      "username": "micka",
+      "userpassword": "1234",
+      "type": "user"
+    }
+  ]
+}
