@@ -8,8 +8,6 @@
     font-family: Arial, sans-serif;
     background: url('/icone/backgroundcinema.jpg');
     background-size: cover;
-    display: flex;
-    justify-content: center;
     align-items: center;
     height: 100vh;
   }
@@ -55,6 +53,7 @@
   .login-container {
     text-align: center;
     margin-top: 20px;
+    position: relative;
   }
   button {
     width: 20%;
@@ -79,4 +78,15 @@
   a:hover {
     text-decoration: underline;
   }
-  
+  .password-container {
+    position: relative;
+}
+
+#togglePassword {
+    position: absolute;
+    right: 41%;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 18px;
+}

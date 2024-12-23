@@ -6,8 +6,10 @@
     <title>Login</title>
     <link rel="stylesheet" href="style3.css">
 </head>
-<body">
+<header>
     <h1>YTDB MOVIES</h1>
+</header>
+<body>
     <div class="login-container">
         <h2>Connexion</h2>
         <form id="loginForm">
@@ -17,12 +19,14 @@
             </div>
             <div class="input-group">
                 <label for="password">Mot de passe</label>
-                <input type="password" id="password" name="password">
+                <div class="password-container">
+                    <input type="password" id="password" name="password">
+                    <span id="togglePassword" class="eye-icon">👁️</span>
+                </div>
             </div>
             <button type="submit" id="loginBtn">Se connecter</button>
         </form>
-        <p>Mot de passe oublié ? <a href="forgot-password.html">Réinitialiser</a></p>
-        <p>Pas encore inscrit ? <a href="register.html">S'inscrire</a></p>
+        <p>Pas encore inscrit hein! ? <a href="register.html">S'inscrire</a></p>
     </div>
 
     <script src="login.js"></script>

@@ -31,7 +31,7 @@ Fonctionnalités principales
 
     Mon objectif était de créer un outil simple et efficace pour permettre aux utilisateurs de gérer leur propre bibliothèque de films
 
-    Démonstration ( si possible )
+    Démonstration (si possible)
 
     Je vais maintenant vous montrer comment fonctionne le site :
         D'abord, nous allons créer un compte.

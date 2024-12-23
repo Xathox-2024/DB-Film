@@ -12,11 +12,26 @@
         <form id="registerForm">
             <div class="input-group">
                 <label for="newUsername">Identifiant</label>
-                <input type="text" id="newUsername" name="newUsername" required>
+                <input 
+                    type="text" 
+                    id="newUsername" 
+                    name="newUsername" 
+                    required 
+                    pattern="[a-zA-Z0-9]+" 
+                    title="Seuls les lettres et chiffres sont autorisés"
+                >
+                <div id="username-feedback" class="feedback"></div>
             </div>
             <div class="input-group">
                 <label for="newPassword">Mot de passe</label>
-                <input type="password" id="newPassword" name="newPassword" required>
+                <input 
+                    type="password" 
+                    id="newPassword" 
+                    name="newPassword" 
+                    required 
+                    title="Minimum 8 caractères, une majuscule, un chiffre, et un caractère spécial"
+                >
+                <div id="password-feedback" class="feedback"></div>
             </div>
             <button type="submit" id="registerBtn">S'inscrire</button>
         </form>
@@ -26,3 +41,4 @@
     <script src="register.js"></script>
 </body>
 </html>
+

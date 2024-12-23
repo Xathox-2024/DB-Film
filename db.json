@@ -13,18 +13,6 @@
       "id": "1"
     },
     {
-      "titre": "The Godfather",
-      "realisateur": "Francis Ford Coppola",
-      "annee": "1972",
-      "genre": [
-        "Thriller"
-      ],
-      "synopsis": "The Godfather (1972) suit l'ascension et la transformation de Michael Corleone, le plus jeune fils d'une puissante famille mafieuse italo-américaine dirigée par Don Vito Corleone. Alors qu'il cherche initialement à se tenir à l'écart des affaires criminelles de sa famille, Michael est progressivement entraîné dans un monde de pouvoir, de violence et de loyauté, devenant lui-même un chef impitoyable. Ce film épique explore les thèmes de la famille, du pouvoir, de la trahison et des conséquences tragiques des choix dans une quête d'héritage et de survie au sein d'un empire criminel.",
-      "affiche": "https://media.npr.org/assets/img/2022/03/10/marlon-brandon-the-godfather_custom-789f9333d50a9a51d671af9cd41652c51d5d48e9.jpg?s=1100&c=85&f=jpeg",
-      "duree": "2h55",
-      "id": "2"
-    },
-    {
       "id": "3",
       "titre": "The Dark Knight",
       "realisateur": "Christopher Nolan",
@@ -957,6 +945,18 @@
       ],
       "duree": "2h30",
       "affiche": "https://m.media-amazon.com/images/M/MV5BMTMxMTUzOTYxNF5BMl5BanBnXkFtZTcwNDYxMTIyMw@@._V1_.jpg"
+    },
+    {
+      "titre": "The Godfather",
+      "realisateur": "Francis Ford Coppola",
+      "annee": "2024",
+      "genre": [
+        ""
+      ],
+      "synopsis": "The Godfather (1972) suit l'ascension et la transformation de Michael Corleone, le plus jeune fils d'une puissante famille mafieuse italo-américaine dirigée par Don Vito Corleone. Alors qu'il cherche initialement à se tenir à l'écart des affaires criminelles de sa famille, Michael est progressivement entraîné dans un monde de pouvoir, de violence et de loyauté, devenant lui-même un chef impitoyable. Ce film épique explore les thèmes de la famille, du pouvoir, de la trahison et des conséquences tragiques des choix dans une quête d'héritage et de survie au sein d'un empire criminel.",
+      "affiche": "images/Inception.jpg",
+      "duree": "2h55",
+      "id": "d109"
     }
   ],
   "users": [
@@ -976,6 +976,24 @@
       "id": "b8af",
       "username": "micka",
       "userpassword": "1234",
+      "type": "user"
+    },
+    {
+      "id": "7c48",
+      "username": "audette",
+      "userpassword": "456",
+      "type": "user"
+    },
+    {
+      "id": "dd6a",
+      "username": "youssef1211",
+      "userpassword": "goat1&Moi",
+      "type": "user"
+    },
+    {
+      "id": "5997",
+      "username": "aude",
+      "userpassword": "Maude12&",
       "type": "user"
     }
   ]

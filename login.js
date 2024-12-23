@@ -1,6 +1,7 @@
 const validUsernameEnter = document.getElementById("username");
 const validPasswordEnter = document.getElementById("password");
 
+
 // Fonction pour récupérer les utilisateurs depuis l'API
 const fetchUsers = async () => {
   try {
@@ -49,4 +50,12 @@ document.getElementById("loginForm").addEventListener("submit", async function (
   } else {
     alert("Identifiant ou mot de passe incorrect !");
   }
+});
+document.getElementById("togglePassword").addEventListener("click", function () {
+  const passwordField = document.getElementById("password");
+  const type = passwordField.type === "password" ? "text" : "password";
+  passwordField.type = type;
+
+  // Changer l'icône d'œil
+  this.textContent = type === "password" ? "👁️" : "🙈";
 });
